@@ -24,7 +24,5 @@ export default [
         img: "./images/crm.png",
       },
     ],
-    
   },
-
 ];
