@@ -12,6 +12,8 @@ const skills = [
   "javascript",
   "react",
   "redux",
+  "jquery",
+  "web scraping",
   "html",
   "css",
   "mysql",
